@@ -3,13 +3,13 @@
 ## 操作系统
 
 - 开发与测试系统：Linux
-- 推荐系统：Ubuntu 22.04 LTS / Ubuntu 24.04 LTS / Debian 12
+- 系统：Ubuntu 22.04 LTS 
 
 ## 编译环境
 
 - C++ 标准：C++20
-- 编译器：g++ 11 或更高版本，推荐 g++ 13
-- 构建工具：CMake 3.20 或更高版本
+- 编译器：g++ 11 
+- 构建工具：CMake 3.20 
 - 网络：Linux POSIX Socket API，默认端口 3307
 
 ## 构建命令
